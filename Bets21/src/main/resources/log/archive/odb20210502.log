@@ -1,0 +1,222 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-02 21:29:36 #1 store] 
+Database 'C:\Users\lucia\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 4492@DESKTOP-I03QHBC
+
+[2021-05-02 21:29:36 #2 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-02 21:29:36 #3 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-02 21:29:36 #4 type.registry] 
+New type domain.Apustua
+
+[2021-05-02 21:29:36 #5 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-02 21:29:36 #6 type.registry] 
+New type domain.Question
+
+[2021-05-02 21:29:36 #7 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-02 21:29:36 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-05-02 21:29:36 #9 type.registry] 
+New type domain.Bezero
+
+[2021-05-02 21:29:36 #10 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-02 21:29:36 #11 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-02 21:29:36 #12 type.registry] 
+New type domain.Event
+
+[2021-05-02 21:29:36 #13 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-02 21:29:36 #14 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-02 21:29:36 #15 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-02 21:29:36 #16 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-02 21:29:36 #17 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-02 21:29:36 #18 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-02 21:29:36 #19 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-02 21:29:36 #20 type.registry] 
+New type domain.Admin
+
+[2021-05-02 21:29:36 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-02 21:29:36 #22 type.registry] 
+New type domain.Langilea
+
+[2021-05-02 21:29:36 #23 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-02 21:29:36 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-02 21:33:54 #1 store] 
+Database 'C:\Users\lucia\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 14820@DESKTOP-I03QHBC
+
+[2021-05-02 21:33:54 #2 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-02 21:33:54 #3 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-02 21:33:54 #4 type.registry] 
+New type domain.Apustua
+
+[2021-05-02 21:33:54 #5 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-02 21:33:54 #6 type.registry] 
+New type domain.Question
+
+[2021-05-02 21:33:54 #7 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-02 21:33:54 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-05-02 21:33:54 #9 type.registry] 
+New type domain.Bezero
+
+[2021-05-02 21:33:54 #10 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-02 21:33:54 #11 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-02 21:33:54 #12 type.registry] 
+New type domain.Event
+
+[2021-05-02 21:33:54 #13 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-02 21:33:54 #14 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-02 21:33:54 #15 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-02 21:33:54 #16 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-02 21:33:54 #17 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-02 21:33:54 #18 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-02 21:33:54 #19 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-02 21:33:54 #20 type.registry] 
+New type domain.Admin
+
+[2021-05-02 21:33:54 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-02 21:33:54 #22 type.registry] 
+New type domain.Langilea
+
+[2021-05-02 21:33:54 #23 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-02 21:33:54 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-02 21:36:18 #1 store] 
+Database 'C:\Users\lucia\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 6180@DESKTOP-I03QHBC
+
+[2021-05-02 21:36:18 #2 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-02 21:36:18 #3 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-02 21:36:18 #4 type.registry] 
+New type domain.Apustua
+
+[2021-05-02 21:36:18 #5 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-02 21:36:18 #6 type.registry] 
+New type domain.Question
+
+[2021-05-02 21:36:18 #7 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-02 21:36:18 #8 type.registry] 
+New type domain.Pertsona
+
+[2021-05-02 21:36:18 #9 type.registry] 
+New type domain.Bezero
+
+[2021-05-02 21:36:18 #10 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-02 21:36:18 #11 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-02 21:36:18 #12 type.registry] 
+New type domain.Event
+
+[2021-05-02 21:36:18 #13 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-02 21:36:18 #14 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-02 21:36:18 #15 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-02 21:36:18 #16 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-02 21:36:18 #17 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-02 21:36:18 #18 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-02 21:36:18 #19 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-02 21:36:18 #20 type.registry] 
+New type domain.Admin
+
+[2021-05-02 21:36:18 #21 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-02 21:36:18 #22 type.registry] 
+New type domain.Langilea
+
+[2021-05-02 21:36:18 #23 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-02 21:36:18 #24 type.registry] 
+New type java.util.Vector<java.lang.Object>
+

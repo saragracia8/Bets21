@@ -1,0 +1,1462 @@
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 17:27:38 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 6924@LAPTOP-PRMGE577
+
+[2021-05-14 17:27:38 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 17:27:38 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 17:27:38 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 17:27:38 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 17:27:38 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 17:27:38 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 17:27:38 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 17:27:38 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 17:27:38 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 17:27:38 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 17:27:38 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 17:27:38 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 17:27:38 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 17:27:38 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 17:27:38 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 17:27:38 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 17:27:38 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 17:27:38 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 17:27:38 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 17:27:38 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 17:27:38 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 17:27:38 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 17:27:38 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 17:27:38 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 17:27:38 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 17:27:38 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 17:27:38 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 17:34:14 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 2816@LAPTOP-PRMGE577
+
+[2021-05-14 17:34:14 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 17:34:14 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 17:34:14 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 17:34:14 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 17:34:14 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 17:34:14 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 17:34:14 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 17:34:14 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 17:34:14 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 17:34:14 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 17:34:14 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 17:34:14 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 17:34:14 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 17:34:14 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 17:34:14 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 17:34:14 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 17:34:14 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 17:34:14 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 17:34:14 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 17:34:14 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 17:34:14 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 17:34:14 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 17:34:14 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 17:34:14 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 17:34:14 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 17:34:14 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 17:34:14 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 17:39:52 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 9752@LAPTOP-PRMGE577
+
+[2021-05-14 17:39:52 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 17:39:52 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 17:39:52 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 17:39:52 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 17:39:52 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 17:39:52 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 17:39:52 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 17:39:52 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 17:39:52 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 17:39:52 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 17:39:52 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 17:39:52 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 17:39:52 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 17:39:52 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 17:39:52 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 17:39:52 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 17:39:52 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 17:39:52 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 17:39:52 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 17:39:52 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 17:39:52 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 17:39:52 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 17:39:52 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 17:39:52 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 17:39:52 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 17:39:52 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 17:39:52 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 19:55:25 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 6112@LAPTOP-PRMGE577
+
+[2021-05-14 19:55:25 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 19:55:25 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 19:55:25 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 19:55:25 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 19:55:25 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 19:55:25 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 19:55:25 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 19:55:25 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 19:55:25 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 19:55:25 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 19:55:25 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 19:55:25 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 19:55:25 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 19:55:25 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 19:55:25 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 19:55:25 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 19:55:25 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 19:55:25 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 19:55:25 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 19:55:25 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 19:55:25 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 19:55:25 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 19:55:25 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 19:55:25 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 19:55:25 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 19:55:25 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 19:55:25 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 19:57:09 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 2336@LAPTOP-PRMGE577
+
+[2021-05-14 19:57:09 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 19:57:09 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 19:57:09 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 19:57:09 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 19:57:09 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 19:57:09 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 19:57:09 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 19:57:09 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 19:57:09 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 19:57:09 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 19:57:09 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 19:57:09 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 19:57:09 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 19:57:09 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 19:57:09 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 19:57:09 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 19:57:09 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 19:57:09 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 19:57:09 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 19:57:09 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 19:57:09 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 19:57:09 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 19:57:09 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 19:57:09 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 19:57:09 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 19:57:09 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 19:57:09 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 20:00:40 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 2876@LAPTOP-PRMGE577
+
+[2021-05-14 20:00:40 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 20:00:40 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 20:00:40 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 20:00:40 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 20:00:40 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 20:00:40 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 20:00:40 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 20:00:40 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 20:00:40 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 20:00:40 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 20:00:40 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 20:00:40 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 20:00:40 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 20:00:40 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 20:00:40 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 20:00:40 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 20:00:40 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 20:00:40 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 20:00:40 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 20:00:40 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 20:00:40 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 20:00:40 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 20:00:40 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 20:00:40 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 20:00:40 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 20:00:40 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 20:00:40 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 20:12:34 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 368@LAPTOP-PRMGE577
+
+[2021-05-14 20:12:34 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 20:12:34 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 20:12:34 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 20:12:34 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 20:12:34 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 20:12:34 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 20:12:34 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 20:12:34 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 20:12:34 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 20:12:34 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 20:12:34 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 20:12:34 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 20:12:34 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 20:12:34 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 20:12:34 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 20:12:34 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 20:12:34 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 20:12:34 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 20:12:34 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 20:12:34 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 20:12:34 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 20:12:34 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 20:12:34 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 20:12:34 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 20:12:34 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 20:12:34 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 20:12:34 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 20:19:52 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 12124@LAPTOP-PRMGE577
+
+[2021-05-14 20:19:52 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 20:19:52 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 20:19:52 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 20:19:52 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 20:19:52 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 20:19:52 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 20:19:52 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 20:19:52 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 20:19:52 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 20:19:52 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 20:19:52 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 20:19:52 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 20:19:52 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 20:19:52 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 20:19:52 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 20:19:52 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 20:19:52 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 20:19:52 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 20:19:52 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 20:19:52 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 20:19:52 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 20:19:52 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 20:19:52 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 20:19:52 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 20:19:52 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 20:19:52 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 20:19:52 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 20:30:38 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 9724@LAPTOP-PRMGE577
+
+[2021-05-14 20:30:38 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 20:30:38 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 20:30:38 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 20:30:38 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 20:30:38 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 20:30:38 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 20:30:38 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 20:30:38 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 20:30:38 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 20:30:38 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 20:30:38 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 20:30:38 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 20:30:38 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 20:30:38 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 20:30:38 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 20:30:38 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 20:30:38 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 20:30:38 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 20:30:38 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 20:30:38 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 20:30:38 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 20:30:38 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 20:30:38 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 20:30:38 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 20:30:38 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 20:30:38 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 20:30:38 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 20:42:30 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 12300@LAPTOP-PRMGE577
+
+[2021-05-14 20:42:30 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 20:42:30 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 20:42:30 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 20:42:30 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 20:42:30 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 20:42:30 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 20:42:30 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 20:42:30 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 20:42:30 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 20:42:30 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 20:42:30 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 20:42:30 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 20:42:30 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 20:42:30 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 20:42:30 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 20:42:30 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 20:42:30 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 20:42:30 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 20:42:30 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 20:42:30 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 20:42:30 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 20:42:30 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 20:42:30 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 20:42:30 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 20:42:30 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 20:42:30 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 20:42:30 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 22:00:12 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 2276@LAPTOP-PRMGE577
+
+[2021-05-14 22:00:13 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 22:00:13 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 22:00:13 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 22:00:13 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 22:00:13 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 22:00:13 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 22:00:13 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 22:00:13 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 22:00:13 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 22:00:13 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 22:00:13 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 22:00:13 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 22:00:13 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 22:00:13 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 22:00:13 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 22:00:13 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 22:00:13 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 22:00:13 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 22:00:13 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 22:00:13 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 22:00:13 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 22:00:13 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 22:00:13 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 22:00:13 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 22:00:13 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 22:00:13 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 22:00:13 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 22:21:34 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 9328@LAPTOP-PRMGE577
+
+[2021-05-14 22:21:34 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 22:21:34 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 22:21:34 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 22:21:34 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 22:21:34 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 22:21:34 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 22:21:34 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 22:21:34 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 22:21:34 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 22:21:34 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 22:21:34 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 22:21:34 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 22:21:34 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 22:21:34 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 22:21:34 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 22:21:34 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 22:21:34 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 22:21:34 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 22:21:34 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 22:21:34 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 22:21:34 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 22:21:34 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 22:21:34 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 22:21:34 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 22:21:34 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 22:21:34 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 22:21:34 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 22:23:06 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 1128@LAPTOP-PRMGE577
+
+[2021-05-14 22:23:06 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 22:23:06 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 22:23:06 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 22:23:06 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 22:23:06 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 22:23:06 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 22:23:06 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 22:23:06 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 22:23:06 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 22:23:06 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 22:23:06 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 22:23:06 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 22:23:06 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 22:23:06 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 22:23:06 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 22:23:06 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 22:23:06 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 22:23:06 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 22:23:06 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 22:23:06 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 22:23:06 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 22:23:06 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 22:23:06 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 22:23:06 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 22:23:06 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 22:23:06 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 22:23:06 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 22:31:56 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 13296@LAPTOP-PRMGE577
+
+[2021-05-14 22:31:57 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 22:31:57 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 22:31:57 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 22:31:57 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 22:31:57 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 22:31:57 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 22:31:57 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 22:31:57 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 22:31:57 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 22:31:57 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 22:31:57 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 22:31:57 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 22:31:57 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 22:31:57 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 22:31:57 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 22:31:57 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 22:31:57 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 22:31:57 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 22:31:57 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 22:31:57 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 22:31:57 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 22:31:57 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 22:31:57 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 22:31:57 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 22:31:57 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 22:31:57 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 22:31:57 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 22:34:16 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 12564@LAPTOP-PRMGE577
+
+[2021-05-14 22:34:17 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 22:34:17 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 22:34:17 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 22:34:17 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 22:34:17 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 22:34:17 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 22:34:17 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 22:34:17 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 22:34:17 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 22:34:17 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 22:34:17 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 22:34:17 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 22:34:17 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 22:34:17 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 22:34:17 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 22:34:17 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 22:34:17 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 22:34:17 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 22:34:17 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 22:34:17 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 22:34:17 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 22:34:17 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 22:34:17 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 22:34:17 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 22:34:17 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 22:34:17 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 22:34:17 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 22:35:11 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 5656@LAPTOP-PRMGE577
+
+[2021-05-14 22:35:11 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 22:35:11 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 22:35:11 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 22:35:11 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 22:35:11 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 22:35:11 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 22:35:11 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 22:35:11 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 22:35:11 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 22:35:11 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 22:35:11 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 22:35:11 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 22:35:11 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 22:35:11 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 22:35:11 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 22:35:11 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 22:35:11 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 22:35:11 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 22:35:11 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 22:35:11 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 22:35:11 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 22:35:11 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 22:35:11 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 22:35:11 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 22:35:11 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 22:35:11 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 22:35:11 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
+------------------------------------------------------------------------------------------------------------------------
+
+[2021-05-14 22:36:22 #1 store] 
+Database 'C:\Users\sarag\eclipse-workspace\Bets21\src\main\resources\bets.temp' is opened by 9360@LAPTOP-PRMGE577
+
+[2021-05-14 22:36:22 #2 type.registry] 
+New type domain.Kodea
+
+[2021-05-14 22:36:22 #3 type] 
+Type domain.Kodea is not enhanced.
+
+[2021-05-14 22:36:22 #4 type.registry] 
+New type domain.Pertsona
+
+[2021-05-14 22:36:22 #5 type.registry] 
+New type domain.Bezero
+
+[2021-05-14 22:36:22 #6 type] 
+Type domain.Pertsona is not enhanced.
+
+[2021-05-14 22:36:22 #7 type] 
+Type domain.Bezero is not enhanced.
+
+[2021-05-14 22:36:22 #8 type.registry] 
+New type java.util.Vector<domain.Kodea>
+
+[2021-05-14 22:36:22 #9 type.registry] 
+New type java.util.Vector<domain.Bezero>
+
+[2021-05-14 22:36:22 #10 type.registry] 
+New type domain.Apustua
+
+[2021-05-14 22:36:22 #11 type.registry] 
+New type java.util.Vector<domain.Apustua>
+
+[2021-05-14 22:36:22 #12 type.registry] 
+New type domain.Mugimendua
+
+[2021-05-14 22:36:22 #13 type.registry] 
+New type java.util.Vector<domain.Mugimendua>
+
+[2021-05-14 22:36:22 #14 type] 
+Type domain.Apustua is not enhanced.
+
+[2021-05-14 22:36:22 #15 type.registry] 
+New type domain.Pronostikoa
+
+[2021-05-14 22:36:22 #16 type.registry] 
+New type java.util.Vector<domain.Pronostikoa>
+
+[2021-05-14 22:36:22 #17 type] 
+Type domain.Mugimendua is not enhanced.
+
+[2021-05-14 22:36:22 #18 type] 
+Type domain.Pronostikoa is not enhanced.
+
+[2021-05-14 22:36:22 #19 type.registry] 
+New type domain.Question
+
+[2021-05-14 22:36:22 #20 type] 
+Type domain.Question is not enhanced.
+
+[2021-05-14 22:36:22 #21 type.registry] 
+New type domain.Event
+
+[2021-05-14 22:36:22 #22 type] 
+Type domain.Event is not enhanced.
+
+[2021-05-14 22:36:22 #23 type.registry] 
+New type java.util.Vector<domain.Question>
+
+[2021-05-14 22:36:22 #24 type.registry] 
+New type domain.Admin
+
+[2021-05-14 22:36:22 #25 type] 
+Type domain.Admin is not enhanced.
+
+[2021-05-14 22:36:22 #26 type.registry] 
+New type domain.Langilea
+
+[2021-05-14 22:36:22 #27 type] 
+Type domain.Langilea is not enhanced.
+
+[2021-05-14 22:36:22 #28 type.registry] 
+New type java.util.Vector<java.lang.Object>
+
