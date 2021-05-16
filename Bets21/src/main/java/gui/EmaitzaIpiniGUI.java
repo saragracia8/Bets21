@@ -283,9 +283,9 @@ public class EmaitzaIpiniGUI extends JFrame {
 				btnEmaitzaIpini.setVisible(true);
 				btnEmaitzaIpini.setEnabled(false);
 
-				//if (jCalendar1.getDate().compareTo(new Date()) < 0) {
+				if (jCalendar1.getDate().compareTo(new Date()) < 0) {
 					btnEmaitzaIpini.setEnabled(true);
-				//}
+				}
 			}
 		});
 

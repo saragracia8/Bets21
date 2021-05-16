@@ -148,18 +148,18 @@ public class ApustuaConfirmGUI extends JFrame {
 						pronostikoak.add(pi);
 					}
 		
+					facade.apustuaEgin(pronostikoak, Float.parseFloat(textAmount.getText()), b, null, kuota);
+
 					if(facade.getKopiatu(b)) {
 						Vector<Bezero> kopiatzaileak = facade.getKopiatzaileak(b);
 						for (Bezero a : kopiatzaileak) {
 							float por = (float) a.getPortzentaia();
-							if (!(facade.getDirua(a) < Float.parseFloat(textAmount.getText())*por || facade.getDirua(a)*por< minBet)) {
-								facade.apustuaEgin(pronostikoak, Float.parseFloat(textAmount.getText()) * por, a, b);
+							if (!(a.getDirua() < Float.parseFloat(textAmount.getText())*por || Float.parseFloat(textAmount.getText())*por< minBet)) {
+								facade.apustuaEgin(pronostikoak, Float.parseFloat(textAmount.getText()) * por, a, b, kuota);
 							}
 						}
 						
-					}
-					facade.apustuaEgin(pronostikoak, Float.parseFloat(textAmount.getText()), b, null);
-					
+					}					
 
 					dirua = facade.getDirua(b);
 					lblSaldoKant.setText(Float.toString(dirua));

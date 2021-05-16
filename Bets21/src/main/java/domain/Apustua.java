@@ -28,6 +28,7 @@ public class Apustua implements Serializable{
 	@XmlJavaTypeAdapter(IntegerAdapter.class)
 	private Integer betNumber;
 	private float apustuDirua;
+	private float kuota;
 	//@XmlIDREF??
 	private Vector<Pronostikoa> pronostikoak;
 	@XmlIDREF
@@ -35,14 +36,23 @@ public class Apustua implements Serializable{
 	@XmlIDREF
 	private Bezero jabea;
 
-	public Apustua(float apustuDirua, Vector<Pronostikoa> pronostikoak, Bezero bezeroa, Bezero jabea) {
+	public Apustua(float apustuDirua, Vector<Pronostikoa> pronostikoak, Bezero bezeroa, Bezero jabea, float kuota) {
 		super();
 		this.apustuDirua = apustuDirua;
 		this.pronostikoak = pronostikoak;
 		this.bezeroa = bezeroa;
 		this.jabea=jabea;
+		this.kuota=kuota;
 	}
 	
+	public float getKuota() {
+		return kuota;
+	}
+
+	public void setKuota(float kuota) {
+		this.kuota = kuota;
+	}
+
 	public Bezero getJabea() {
 		return jabea;
 	}

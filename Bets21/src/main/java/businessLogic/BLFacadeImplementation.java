@@ -353,9 +353,9 @@ public class BLFacadeImplementation implements BLFacade {
 	}
 
 	@WebMethod
-	public void apustuaEgin(Vector<Pronostikoa> pronostikoak, float dirua, Bezero b, Bezero jabea) {
+	public void apustuaEgin(Vector<Pronostikoa> pronostikoak, float dirua, Bezero b, Bezero jabea, float kuota) {
 		dbManager.open(false);
-		dbManager.apustuaEgin(pronostikoak, dirua, b, jabea);
+		dbManager.apustuaEgin(pronostikoak, dirua, b, jabea, kuota);
 		dbManager.close();
 	}
 

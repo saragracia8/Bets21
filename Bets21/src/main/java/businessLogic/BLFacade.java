@@ -126,7 +126,7 @@ public interface BLFacade {
 	public void deleteEvent(Event evi);
 
 	@WebMethod
-	public void apustuaEgin(Vector<Pronostikoa> pronostikoak, float dirua, Bezero b, Bezero jabea);
+	public void apustuaEgin(Vector<Pronostikoa> pronostikoak, float dirua, Bezero b, Bezero jabea, float kuota);
 
 	@WebMethod
 	public void emaitzaIpini(Event ev, Question q, Pronostikoa pi);

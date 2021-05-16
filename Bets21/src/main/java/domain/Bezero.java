@@ -136,8 +136,8 @@ public class Bezero extends Pertsona implements Serializable{
 	public void setApustuak(Vector<Apustua> apustuak) {
 		this.apustuak = apustuak;
 	}
-	public Apustua addApustua(float dirua, Vector<Pronostikoa> pronostikoak, Bezero jabea) {
-		Apustua a = new Apustua (dirua, pronostikoak, this, jabea);
+	public Apustua addApustua(float dirua, Vector<Pronostikoa> pronostikoak, Bezero jabea, float kuota) {
+		Apustua a = new Apustua (dirua, pronostikoak, this, jabea, kuota);
 		this.apustuak.add(a);
 		return a;
 	}

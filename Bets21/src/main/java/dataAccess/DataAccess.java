@@ -497,10 +497,10 @@ public class DataAccess {
 
 	}
 
-	public void apustuaEgin(Vector<Pronostikoa> pronostikoak, float dirua, Bezero b, Bezero jabea) {
+	public void apustuaEgin(Vector<Pronostikoa> pronostikoak, float dirua, Bezero b, Bezero jabea, float kuota) {
 		Pronostikoa pri;
 		Bezero bez = db.find(Bezero.class, b.getErabiltzailea());
-		Apustua a = bez.addApustua(dirua, pronostikoak, jabea);
+		Apustua a = bez.addApustua(dirua, pronostikoak, jabea, kuota);
 		bez.restDirua(dirua);
 		bez.addMugimendua(-(dirua), ResourceBundle.getBundle("Etiquetas").getString("Apustua"), false);
 		for (Pronostikoa p : pronostikoak) {
@@ -560,7 +560,7 @@ public class DataAccess {
 		Vector<Apustua> ap = p.getApustuak();
 		for (Apustua api : ap) {
 			Bezero b = db.find(Bezero.class, api.getBezeroa().getErabiltzailea());
-			Float kuota = p.getKuota();
+			Float kuota = api.getKuota();
 			Float apustuDirua = api.getApustuDirua();
 			Vector<Pronostikoa> pronostikoak = api.getPronostikoak();
 			for (Pronostikoa pr : pronostikoak) {
